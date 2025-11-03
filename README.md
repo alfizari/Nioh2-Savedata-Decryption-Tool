@@ -1,6 +1,9 @@
-# Nioh Savedata Encryption/Decryption Tool
+# Nioh 2 Savedata Encryption/Decryption Tool
 
-This tool allows the decryption and encryption of Nioh(Steam) user and system save files. Some basic save file editing features such as the transfer of save files to other steam accounts are also provided. You can find the latest release version [here](https://github.com/pawREP/Nioh-Savedata-Decryption-Tool/releases/latest).
+Modifed to work with Nioh 2 by changing the file lenght 
+
+This tool allows the decryption and encryption of Nioh(Steam) user and system save files. Some basic save file editing features such as the transfer of save files to other steam accounts are also provided.
+
 
 ### How to use:
 
